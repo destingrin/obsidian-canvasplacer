@@ -1,0 +1,10 @@
+﻿{
+  "id": "obsidian-canvasplacer",
+  "name": "Obsidian Canvas Placer",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Automatically adds new notes from Telegram-Inbox folder to boards/fetchboard.canvas",
+  "author": "You",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

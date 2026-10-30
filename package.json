@@ -1,0 +1,16 @@
+﻿{
+  "name": "obsidian-canvasplacer",
+  "version": "1.0.0",
+  "description": "Obsidian plugin to auto-add Telegram-Inbox notes to boards/fetchboard.canvas",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "obsidian": "latest",
+    "esbuild": "^0.19.0",
+    "typescript": "^5.0.0"
+  }
+}
