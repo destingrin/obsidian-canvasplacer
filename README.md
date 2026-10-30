@@ -1,6 +1,6 @@
-# obsidian-canvasplacer
+# Obsidian Canvas Placer
 
-Obsidian Canvas‑Placer automatically places Telegram‑Inbox notes onto a canvas with dynamic sizing, using a modify‑event listener, corrected height calculation, and configurable source‑folder/target‑canvas settings.
+this plugin automatically places Telegram‑Inbox notes onto a canvas with dynamic sizing, using a modify‑event listener, corrected height calculation, and configurable source‑folder/target‑canvas settings.
 
 ## Features
 
